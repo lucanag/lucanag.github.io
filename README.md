@@ -22,6 +22,8 @@
 
 ## Synthesis Exam Work, Analysis - rule 30
 *You can read it in Hungarian [here](https://github.com/lucanag/music/blob/main/rule30.pdf).*
+ <embed src="https://viewscreen.githubusercontent.com/view/pdf?color_mode=auto&commit=3ee8cb695a6e70512148da83451a1ce8d02c7cb6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c7563616e61672f6d757369632f336565386362363935613665373035313231343864613833343531613163653864303263376362362f72756c6533302e706466&logged_in=true&nwo=lucanag%2Fmusic&path=rule30.pdf&platform=mac&repository_id=423020520&repository_type=Repository&version=14#64cf0168-9e93-4755-a1a1-62b6a2fce21d" width="500" height="375" 
+ type="application/pdf">
 
 ### Inspiration
 
