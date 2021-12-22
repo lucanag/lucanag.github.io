@@ -15,7 +15,7 @@
       6.  2 built - in software syntetiser
       7.  2 insert effect
       8.  2 send effect
-2.  At least 700 word analysis
+2. At least 700 word analysis
 3. Presentation
 4. WAV file (20 sec)
 ```
@@ -107,6 +107,7 @@
 (picture)
 (picture)
 
+On top of these I used Redux and Chorus for make it more dirty and metallic?. Then I realised the problem was with my note lenght, so I shorten them. In the ending part I didn't know on how to 
 
 #### 3. ORNAMENTS
 
