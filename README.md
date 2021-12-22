@@ -4,7 +4,7 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 
 # Sound Synthesis Exam
 
-## Requirements:
+## Requirements
 1.  A project without using any sampler (Sampler, Simpler, Impulse, Drum Rack, etc.)
 2.  Using real time, non-realtime input
 3.  Using edited note, velocity
@@ -48,7 +48,7 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 
 (picture)
 
-> During I played with a controller, I realised 
+> During I played with a controller, I realised I need more high frequency, so I used a band pass filter on Auto Filter with small rezonanse. In order to make more exciting and make some movements I used and LFO with small amplitude. Since I felt the sound a ittle bit dry, in order to fill with more colour, I used a ping-pong Delay on the middle frequencies with high feedback. Then I realised I would use on other channels too, so I used as a Send/Return effect instead of Insert. T
 
 
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
