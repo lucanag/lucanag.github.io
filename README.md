@@ -35,6 +35,7 @@ I chose my inspiration source based on the topics which had the most influenced 
 
 [rule 30](https://en.wikipedia.org/wiki/Rule_30)
 
+
 > *"It always bothers me that according to the laws as we understand them today, it takes a computing machine an infinite number of logical operations to figure out what goes on in no matter how tiny a region of space, and no matter how tiny a region of time. How can all that be going on in that tiny space? Why should it take an infinite amount of logic to figure out what one tiny piece of space/time is going to do? So I have often made the hypothesis ultimately physics will not require a mathematical statement, that in the end the machinery will be revealed and the laws will turn out to be simple, like the chequer board with all its apparent complexities. But this is just speculation." (The Character of Physical Law - Ch. 2) - Richard Feynman*
 
 
@@ -43,9 +44,12 @@ I chose my inspiration source based on the topics which had the most influenced 
 
 > I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
 
-![image](https://user-images.githubusercontent.com/43001496/147131851-562c7008-3d33-4678-9384-a32f63fe7c99.png)
+| First Header |
+| -------------------------- |
+|![image](https://user-images.githubusercontent.com/43001496/147131851-562c7008-3d33-4678-9384-a32f63fe7c99.png)|
 
-> Firstly I started with the KERNEL - SICK sound which I tried to make as mystic as I can. Due to this I thought a substractive syntesis will be the proper from a rich sound, then I would slightly modify the Decay of the filter envelope on the Operator to receive an additional more dominant sound. With this and small editation CHORD was burn during I tried NATIVE INSTRUMENTS KOMPLETE KONTROL M32 during. I tried to create similar melodies on the two channel.
+
+Firstly I started with the KERNEL - SICK sound which I tried to make as mystic as I can. Due to this I thought a substractive syntesis will be the proper from a rich sound, then I would slightly modify the Decay of the filter envelope on the Operator to receive an additional more dominant sound. With this and small editation CHORD was burn during I tried NATIVE INSTRUMENTS KOMPLETE KONTROL M32 during. I tried to create similar melodies on the two channel.
 
 > Then I continued with the DRUMS synthesis where I used additive sznthesis or used only one oscillator with more audio effects.
 
