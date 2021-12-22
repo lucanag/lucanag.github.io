@@ -16,7 +16,7 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 9.  At least 700 word analysis
 10. Presentation
 
-## Synthesis Exam Work, Analysis - rule30 (Luca Nagy)
+## Synthesis Exam Work, Analysis - rule 30
 
 ### Inspiration
 
@@ -27,11 +27,9 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 
 ### Implementation Process
 
-> I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. 
+> I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
 
-From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
-
-
+> Firstly I started with the KERNEL - SICK sound which I tried to make as mystic as I can. Due to this I thought a substractive syntesis will be the proper from a rich sound, then I would slightly modify the Decay of the filter envelope on the Operator to receive an additional more dominant sound.
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
 
 
