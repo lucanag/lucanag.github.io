@@ -111,7 +111,16 @@
 
 #### 3. ORNAMENTS
 
-> Since after the KERNEL and DRUMS 
+> The picture regarding the style and mood was clarified after the KERNEL and DRUMS implementation, I wanted a pad noise which has more dark tone with some noises in the ending part. In the same time I felt week in high frequencies so my aim in this part was also synthetising some ornament high noises. 
+
+
+##### a, PAD
+
+The aim was here to synthetise a background sound which is little bit worrysome affect has. I used a Wavetable Pink Noise with 26Hz Square wave LFO. I wanted only the release part of it so I set high release of the amplude envelope then used Saturator and Echo with high feedback on high frequences.
+
+(picture)
+
+In order to 
 
 ## Sampling 
 
