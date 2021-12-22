@@ -1,11 +1,11 @@
 # Ableton - Sound Synthesis and Sampling work
 
-This is a walkthrough on some of my Ableton learning process/homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com) 
+This is a walkthrough on some of my Ableton learning process/homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com).
 
 
-## Sound Synthesis Exam
+# Sound Synthesis Exam
 
-### Requirements:
+## Requirements:
 1.  A project without using any sampler (Sampler, Simpler, Impulse, Drum Rack, etc.)
 2.  Using real time, non-realtime input
 3.  Using edited note, velocity
@@ -17,41 +17,21 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 9.  At least 700 word analysis
 10. Presentation
 
-### Analyis:
+## Synthesis Exam Work, Analysis - rule30 (Luca Nagy)
 
-<iframe src="https://www.nationaltransport.ie/wp-content/uploads/NUI_Galway.pdf" height="200" width="300"></iframe>
+### Inspiration
 
-You can read it in Hungarian here
-
-
+I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiosity regarding the future affected by the current knowledge in scienses. Stephen Wolfram, A New Kind of Science named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same t dark tone, atmospheric sounds which are not everydaz natural sounds in our direct environment.
 
 
 
-<object data="https://www.nationaltransport.ie/wp-content/uploads/NUI_Galway.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://www.nationaltransport.ie/wp-content/uploads/NUI_Galway.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/lucanag/music/blob/main/rule30.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
-<object data="https://www.nationaltransport.ie/wp-content/uploads/NUI_Galway.pdf" width="500" height="500" type='application/pdf'></object>
-
-<object data="https://www.nationaltransport.ie/wp-content/uploads/NUI_Galway.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://www.nationaltransport.ie/wp-content/uploads/NUI_Galway.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/lucanag/music/blob/main/rule30.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
-xfun::embed_file("https://www.nationaltransport.ie/wp-content/uploads/NUI_Galway.pdf")
+You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
 
 
 
 
 
-
-
-## Sound Synthesis Exam
+## Sampling  Exam
 
 
 
