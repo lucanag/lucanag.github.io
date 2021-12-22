@@ -34,6 +34,16 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 > Then I continued with the DRUMS synthesis where I used additive sznthesis or used only one oscillator with more audio effects.
 > Then I still felt some lack between the overall mood and the inspiration part, so I started experiencing with the ORNAMENT group where I synthesised a PAD with the help of Wavetable and used some HIGH STUFF with Analog.
 
+#### KERNEL
+
+(picture)
+
+##### SICK
+
+Since I wanted a more abstract but not a soft and supressed
+
+
+
 
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
 
