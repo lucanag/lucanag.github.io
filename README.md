@@ -31,9 +31,9 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiousity regarding the future affected by our current knowledge in scienses. [Stephen Wolfram, A New Kind of Science](https://www.wolframscience.com/nks/) named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same time with dark tone, atmospheric sounds which are not experienced in our natural direct environment. I followed this concept when I syntentiyed 4 sounds, based on its style I would say dub-techno especially that I was inpired by [Heavenchord - 01 H.C.R.D.1 (dub44)](https://www.youtube.com/watch?v=i9sBLThQ4Cc) in structure  and secquence.
 
 
-
+| --- |
 | <img src="https://user-images.githubusercontent.com/43001496/147131176-0c1b8273-9e87-42b5-93ce-417e1c7067f0.png"/>|
-| -------------------------- |
+| --- |
 
 [rule 30](https://en.wikipedia.org/wiki/Rule_30)
 
