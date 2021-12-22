@@ -30,6 +30,11 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 > I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
 
 > Firstly I started with the KERNEL - SICK sound which I tried to make as mystic as I can. Due to this I thought a substractive syntesis will be the proper from a rich sound, then I would slightly modify the Decay of the filter envelope on the Operator to receive an additional more dominant sound.
+
+> Then I continued with the DRUMS synthesis where I used additive sznthesis or used only one oscillator with more audio effects.
+> Then I still felt some lack between the overall mood and the inspiration part, so I started experiencing with the ORNAMENT group where I synthesised a PAD with the help of Wavetable and used some HIGH STUFF with Analog.
+
+
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
 
 
