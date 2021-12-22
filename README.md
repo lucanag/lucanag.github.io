@@ -91,19 +91,21 @@
 
 #### 2. DRUMS
 
+![image](https://user-images.githubusercontent.com/43001496/147133285-05df0069-cf4b-49ee-ab76-e781c995e72a.png)
+
 ##### a, KICK
 
 > I wanted a sound fulfilled with harmonics so I again strted from a Sw3 wave with zero attack and sustain with a middle long release. 
 
-(pictuer)
+![image](https://user-images.githubusercontent.com/43001496/147133298-e490334d-085d-409b-aebc-282ceb9899f6.png)
 
 > I played a lot with the Pitch evelope decay value which has key role in finding out the proper KICK which is not to strong to fit to my taste.
 
-(picture)
+![image](https://user-images.githubusercontent.com/43001496/147133320-c8794a48-7673-4536-956e-670790108436.png)
 
-> I used a Low pass filter with small  resonance with zero attack and fast closing.
+> I used a Low pass filter with tiny resonance with zero attack and fast closing.
 
-(picture)
+![image](https://user-images.githubusercontent.com/43001496/147133363-c42e5044-4106-41da-ac95-2dfcafb97f3c.png)
 
 > By playing the drive parameter of the Saturator i made the sound more determined, then made the high frequencies more soft with an EQ Eight. In order to open the KICK gradually during the lead (CHORD), I automated the low pass filter on the Operator. 
 
@@ -111,40 +113,48 @@
 
 > I used fixed 52 Hz and sinus wave, as I wanted a more soft element than the KICK. Due to it I was more cautious with the Pich envelope as well as the low pass filter cut point (??). Drum Bass drive was used for increasing the leftover frequencies.
 
-(picture)
+![image](https://user-images.githubusercontent.com/43001496/147133387-102664b7-4ae1-4d4a-9b37-88f14c7df026.png)
 
 ##### c, HIHAT
 
 > I spend a lot time with the HIHAT as first I check a [tutorial](link yt) where they only used a white noise with the built-in Operator. This was not so interesting as the metal elements were missing from it, so I used a custom wave fromate with additive ssynthesis whit small and middle amplitue harmonics. I cut the low frequencies but it was still not the best, so I realised that increasing the resonance is a good solution.
 
-(picture)
-(picture)
+![image](https://user-images.githubusercontent.com/43001496/147133399-f10ecfa4-d19a-45e6-b280-c2c003679d80.png)
+![image](https://user-images.githubusercontent.com/43001496/147133404-9e16e1f7-ce95-4a98-a504-31ef21363f59.png)
 
 > On top of these I used Redux and Chorus for make it more dirty and metallic?. Then I realised the problem was with my note lenght, so I shorten them. In the ending part I didn't know on how to finish it softly so I just started decreasing the number of notes and using more automation on Redux dry/wet and Echo. 
+
+![image](https://user-images.githubusercontent.com/43001496/147133423-2ac4e285-0a43-4952-996c-ad0ec73a10e1.png)
+![image](https://user-images.githubusercontent.com/43001496/147133433-3be6ea30-e916-4d73-814f-25d5abff3a2b.png)
+
 
 #### 3. ORNAMENTS
 
 > The picture regarding the style and mood was clarified after the KERNEL and DRUMS implementation, I wanted a pad noise which has more dark tone with some noises in the ending part. In the same time I felt week in high frequencies so my aim in this part was also synthetising some ornament high noises. 
 
+![image](https://user-images.githubusercontent.com/43001496/147133448-802e8fb2-4929-4ef9-af79-55f295086594.png)
 
 ##### a, PAD
 
 The aim was here to synthetise a background sound which is little bit worrysome affect has. I used a Wavetable Pink Noise with 26Hz Square wave LFO. I wanted only the release part of it so I set high release of the amplude envelope then used Saturator and Echo with high feedback on high frequences.
 
-(picture)
+![image](https://user-images.githubusercontent.com/43001496/147133458-efbb58bd-5a9d-477f-9807-871c15a9b78c.png)
 
 In order to soothe the impact of this sound, I increased the envelope's attack and simply cut the track volumes on the note on part (I knew this is not the most elegant solution but it worked). Then I usedd Auto Filer on the high frequencies to cut them. Even it was only a pad noise I wanted to make it more colourful so I used LFO as a modulator on the Auto Filter. I realised that the Echo's Noise generator is also fit to this sound, so I set some automation to it. 
+
+![image](https://user-images.githubusercontent.com/43001496/147133489-de9a2381-1973-4543-a773-358116538fa0.png)
+![image](https://user-images.githubusercontent.com/43001496/147133502-21594284-93c0-4a3e-9308-daaaca2df962.png)
+
 
 ##### b, HIGH STUFF
 
 The aim was to fulfill the boring parts with some higher frequencies. I used Analog with two oscillator with sawtooth waves to obtain more harmonics.
 
-(picture)
+![image](https://user-images.githubusercontent.com/43001496/147133517-e5f7e73c-516d-4cb4-bee2-943c521e7315.png)
 
 I set the note to G3 to fit to the CHORD and SICK main frequencies. I tried to soften this sound with by increasing the filter and amplitude's envelope attack of the first oscillator to open the low pass filter gradually. Then to make more movements and make the overall impact more colourful I set the second oscillator 2 octave up. Echo and Decay was used with high feedvack. For movements I used LFO on the Auto Filter and Delay as a Send/Return effect.
 
-(picture)
-
+![image](https://user-images.githubusercontent.com/43001496/147133535-c6755988-0013-4dbe-819e-c0709fc189ac.png)
 
 Self assessment
 
