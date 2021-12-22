@@ -30,7 +30,7 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 
 I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiousity regarding the future affected by our current knowledge in scienses. [Stephen Wolfram, A New Kind of Science](https://www.wolframscience.com/nks/) named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same time with dark tone, atmospheric sounds which are not experienced in our natural direct environment. I followed this concept when I syntentiyed 4 sounds, based on its style I would say dub-techno especially that I was inpired by [Heavenchord - 01 H.C.R.D.1 (dub44)](https://www.youtube.com/watch?v=i9sBLThQ4Cc) in structure  and secquence.
 
-<img src="https://user-images.githubusercontent.com/43001496/147131176-0c1b8273-9e87-42b5-93ce-417e1c7067f0.png" width="500" /> 
+<img src="https://user-images.githubusercontent.com/43001496/147131176-0c1b8273-9e87-42b5-93ce-417e1c7067f0.png" width="800" /> 
 
 [rule 30](https://en.wikipedia.org/wiki/Rule_30)
 
@@ -44,8 +44,7 @@ I chose my inspiration source based on the topics which had the most influenced 
 I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
 
 
-|![image](https://user-images.githubusercontent.com/43001496/147131851-562c7008-3d33-4678-9384-a32f63fe7c99.png)|
-| --- |
+<img src="https://user-images.githubusercontent.com/43001496/147131851-562c7008-3d33-4678-9384-a32f63fe7c99.png" width="100" /> 
 
 Firstly I started with the KERNEL - SICK sound which I tried to make as mystic as I can. Due to this I thought a substractive syntesis will be the proper from a rich sound, then I would slightly modify the Decay of the filter envelope on the Operator to receive an additional more dominant sound. With this and small editation CHORD was burn during I tried NATIVE INSTRUMENTS KOMPLETE KONTROL M32 during. I tried to create similar melodies on the two channel.
 
