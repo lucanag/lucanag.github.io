@@ -66,43 +66,43 @@
 
 ##### b, CHORD
 
-Since I wanted a much strong, but inherited from the previous sounds for fit in the mood, I just copied the Chord and Operator from SICK and only modified the decay of filter envelope to increase it for fulfill with harmonics.
+> Since I wanted a much strong, but inherited from the previous sounds for fit in the mood, I just copied the Chord and Operator from SICK and only modified the decay of filter envelope to increase it for fulfill with harmonics.
 
 (picture)
 
-The new sound got to be more stronger with this so I used as the lead. I used Auto Filter LFO and automated it's amplitude for movements. I recorded this automation. I only used a logic to decrease the value when HIHAT appears for get back to the base CHORD sounds.
+> The new sound got to be more stronger with this so I used as the lead. I used Auto Filter LFO and automated it's amplitude for movements. I recorded this automation. I only used a logic to decrease the value when HIHAT appears for get back to the base CHORD sounds.
 
 (picture)
 
-Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
+> Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
 
 #### 2. DRUMS
 
 ##### a, KICK
 
-I wanted a sound fulfilled with harmonics so I again strted from a Sw3 wave with zero attack and sustain with a middle long release. 
+> I wanted a sound fulfilled with harmonics so I again strted from a Sw3 wave with zero attack and sustain with a middle long release. 
 
 (pictuer)
 
-I played a lot with the Pitch evelope decay value which has key role in finding out the proper KICK which is not to strong to fit to my taste.
+> I played a lot with the Pitch evelope decay value which has key role in finding out the proper KICK which is not to strong to fit to my taste.
 
 (picture)
 
-I used a Low pass filter with small  resonance with zero attack and fast closing.
+> I used a Low pass filter with small  resonance with zero attack and fast closing.
 
 (picture)
 
-By playing the drive parameter of the Saturator i made the sound more determined, then made the high frequencies more soft with an EQ Eight. In order to open the KICK gradually during the lead (CHORD), I automated the low pass filter on the Operator. 
+> By playing the drive parameter of the Saturator i made the sound more determined, then made the high frequencies more soft with an EQ Eight. In order to open the KICK gradually during the lead (CHORD), I automated the low pass filter on the Operator. 
 
 ##### b, BASS
 
-I used fixed 52 Hz and sinus wave, as I wanted a more soft element than the KICK. Due to it I was more cautious with the Pich envelope as well as the low pass filter cut point (??). Drum Bass drive was used for increasing the leftover frequencies.
+> I used fixed 52 Hz and sinus wave, as I wanted a more soft element than the KICK. Due to it I was more cautious with the Pich envelope as well as the low pass filter cut point (??). Drum Bass drive was used for increasing the leftover frequencies.
 
 (picture)
 
 ##### c, HIHAT
 
-I spend a lot time with the HIHAT as first I check a [tutorial](link yt) where they only used a white noise with the built-in Operator. This was not so interesting as the metal elements were missing from it, so I used a custom wave fromate with additive ssynthesis whit small and middle amplitue harmonics. I cut the low frequencies but it was still not the best, so I realised that increasing the resonance is a good solution.
+> I spend a lot time with the HIHAT as first I check a [tutorial](link yt) where they only used a white noise with the built-in Operator. This was not so interesting as the metal elements were missing from it, so I used a custom wave fromate with additive ssynthesis whit small and middle amplitue harmonics. I cut the low frequencies but it was still not the best, so I realised that increasing the resonance is a good solution.
 
 (picture)
 (picture)
