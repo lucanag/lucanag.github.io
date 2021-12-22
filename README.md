@@ -18,7 +18,21 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 10. Presentation
 
 ### Analyis:
+
+<iframe src="https://github.com/lucanag/music/blob/main/rule30.pdf" height="200" width="300"></iframe>
+
 You can read it in Hungarian here
+
+
+
+
+
+<object data="https://github.com/lucanag/music/blob/main/rule30.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/lucanag/music/blob/main/rule30.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/lucanag/music/blob/main/rule30.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 <object data="https://github.com/lucanag/music/blob/main/rule30.pdf" width="500" height="500" type='application/pdf'></object>
 
