@@ -3,6 +3,9 @@
 This is a walkthrough on some of my Ableton learning process/homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com).
 
 
+<embed src="http://vsnrweb-publications.org.uk/Volsunga%20saga.pdf" width="500" height="375" 
+ type="application/pdf">
+
 # Sound Synthesis Exam
 
 ## Requirements:
