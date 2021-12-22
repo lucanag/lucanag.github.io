@@ -123,11 +123,13 @@ I used fixed 52 Hz and sinus wave, as I wanted a more soft element than the KICK
 I spend a lot time with the HIHAT as first I check a [tutorial](link yt) where they only used a white noise with the built-in Operator. This was not so interesting as the metal elements were missing from it, so I used a custom wave fromate with additive ssynthesis whit small and middle amplitue harmonics. I cut the low frequencies but it was still not the best, so I realised that increasing the resonance is a good solution.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133399-f10ecfa4-d19a-45e6-b280-c2c003679d80.png" width="500" />
+
 <img src="https://user-images.githubusercontent.com/43001496/147133404-9e16e1f7-ce95-4a98-a504-31ef21363f59.png" width="500" />
 
 On top of these I used Redux and Chorus for make it more dirty and metallic?. Then I realised the problem was with my note lenght, so I shorten them. In the ending part I didn't know on how to finish it softly so I just started decreasing the number of notes and using more automation on Redux dry/wet and Echo. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147133423-2ac4e285-0a43-4952-996c-ad0ec73a10e1.png" width="500" />
+
 <img src="https://user-images.githubusercontent.com/43001496/147133433-3be6ea30-e916-4d73-814f-25d5abff3a2b.png" width="500" />
 
 
@@ -146,6 +148,7 @@ The aim was here to synthetise a background sound which is little bit worrysome 
 In order to soothe the impact of this sound, I increased the envelope's attack and simply cut the track volumes on the note on part (I knew this is not the most elegant solution but it worked). Then I usedd Auto Filer on the high frequencies to cut them. Even it was only a pad noise I wanted to make it more colourful so I used LFO as a modulator on the Auto Filter. I realised that the Echo's Noise generator is also fit to this sound, so I set some automation to it. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147133489-de9a2381-1973-4543-a773-358116538fa0.png" width="250" />
+
 <img src="https://user-images.githubusercontent.com/43001496/147133502-21594284-93c0-4a3e-9308-daaaca2df962.png" width="200" />
 
 
