@@ -120,7 +120,20 @@ The aim was here to synthetise a background sound which is little bit worrysome 
 
 (picture)
 
-In order to 
+In order to soothe the impact of this sound, I increased the envelope's attack and simply cut the track volumes on the note on part (I knew this is not the most elegant solution but it worked). Then I usedd Auto Filer on the high frequencies to cut them. Even it was only a pad noise I wanted to make it more colourful so I used LFO as a modulator on the Auto Filter. I realised that the Echo's Noise generator is also fit to this sound, so I set some automation to it. 
+
+##### b, HIGH STUFF
+
+The aim was to fulfill the boring parts with some higher frequencies. I used Analog with two oscillator with sawtooth waves to obtain more harmonics.
+
+(picture)
+
+I set the note to G3 to fit to the CHORD and SICK main frequencies. I tried to soften this sound with by increasing the filter and amplitude's envelope attack of the first oscillator to open the low pass filter gradually. Then to make more movements and make the overall impact more colourful I set the second oscillator 2 octave up. Echo and Decay was used with high feedvack. For movements I used LFO on the Auto Filter and Delay as a Send/Return effect.
+
+(picture)
+
+
+Self assessment
 
 ## Sampling 
 
@@ -134,6 +147,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  
  <embed src="https://viewscreen.githubusercontent.com/view/pdf?color_mode=auto&commit=3ee8cb695a6e70512148da83451a1ce8d02c7cb6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c7563616e61672f6d757369632f336565386362363935613665373035313231343864613833343531613163653864303263376362362f72756c6533302e706466&logged_in=true&nwo=lucanag%2Fmusic&path=rule30.pdf&platform=mac&repository_id=423020520&repository_type=Repository&version=14#64cf0168-9e93-4755-a1a1-62b6a2fce21d" width="500" height="375" 
  type="application/pdf">
+ 
+ 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
