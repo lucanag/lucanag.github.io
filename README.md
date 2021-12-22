@@ -161,3 +161,7 @@ The aim was to fulfill the boring parts with some higher frequencies. I used Ana
 I set the note to G3 to fit to the CHORD and SICK main frequencies. I tried to soften this sound with by increasing the filter and amplitude's envelope attack of the first oscillator to open the low pass filter gradually. Then to make more movements and make the overall impact more colourful I set the second oscillator 2 octave up. Echo and Decay was used with high feedvack. For movements I used LFO on the Auto Filter and Delay as a Send/Return effect.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133535-c6755988-0013-4dbe-819e-c0709fc189ac.png" width="500" />
+
+## Presentation
+
+## Wav file
