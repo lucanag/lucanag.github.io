@@ -9,7 +9,10 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 - [Sound Synthesis](https://lucanag.github.io/Synthesis/)
 - [Sampling](https://lucanag.github.io/Sampling/)
 
-## Self links
+
+---------------
+```
 github: @luca_nag
 twitter: @luca_nagy
 instagram: @pushebp
+```
