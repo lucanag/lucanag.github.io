@@ -11,9 +11,6 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
  type="application/pdf">
 
 
-<embed src="https://docs.google.com/viewer?url=
-
-
 # Sound Synthesis Exam
 
 ## Requirements:
