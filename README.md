@@ -3,6 +3,10 @@
 
 I will walk you through on some of my Ableton learning process and homeworks which I have been experienced during taking a Music Production course at [Impro School](https://www.improschool.com). 
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p> 
+
 *The course I take is in Hungarian but English language courses are also available [here](https://www.improschool.com/all).*
 
 # Sound Synthesis
