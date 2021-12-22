@@ -5,5 +5,6 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 
 *The course I take is in Hungarian but English language courses are also available [here](https://www.improschool.com/all).*
 
+## Topics
 - [Sound Synthesis](https://lucanag.github.io/Synthesis/)
 - [Sampling](https://lucanag.github.io/Sampling/)
