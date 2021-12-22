@@ -42,9 +42,9 @@ I chose my inspiration source based on the topics which had the most influenced 
 
 ### Implementation Process
 
-> I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
+I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
 
-| First Header |
+|  |
 | -------------------------- |
 |![image](https://user-images.githubusercontent.com/43001496/147131851-562c7008-3d33-4678-9384-a32f63fe7c99.png)|
 
@@ -63,22 +63,22 @@ Firstly I started with the KERNEL - SICK sound which I tried to make as mystic a
 
 ##### a, SICK
 
-> Since I wanted a more abstract but not a soft and supressed sound, I used a SwD wave with the built-in Operator with long attack and release time and playing with the filter as a substractive synthesis. Since I don't have a solid musical background using Chord was a huge help asince a simple moll can be set easily only once and I can forget it in the followings when I set the notes.
+Since I wanted a more abstract but not a soft and supressed sound, I used a SwD wave with the built-in Operator with long attack and release time and playing with the filter as a substractive synthesis. Since I don't have a solid musical background using Chord was a huge help asince a simple moll can be set easily only once and I can forget it in the followings when I set the notes.
 
 ![image](https://user-images.githubusercontent.com/43001496/147132272-5be4c331-694a-49e1-97ed-0972bd563185.png)
 
-> I used low pass filter MS2 based on (link) and set the filter envelope to open and close fast with short decay. I wanted pitch sensitivity so I increased Freq Key.
+I used low pass filter MS2 based on (link) and set the filter envelope to open and close fast with short decay. I wanted pitch sensitivity so I increased Freq Key.
 
 ![image](https://user-images.githubusercontent.com/43001496/147132298-9d478ad6-e691-4857-8c0b-db6e86e49b9e.png)
 
-> During I played with a controller, I realised I need more high frequency, so I used a band pass filter on Auto Filter with small rezonanse. In order to make more exciting and make some movements I used and LFO with small amplitude. Since I felt the sound a ittle bit dry, in order to fill with more colour, I used a ping-pong Delay on the middle frequencies with high feedback. Then I realised I would use on other channels too, so I used as a Send/Return effect instead of Insert. I used automation in order to decrease the realese time which was effected by the high feedback. 
+During I played with a controller, I realised I need more high frequency, so I used a band pass filter on Auto Filter with small rezonanse. In order to make more exciting and make some movements I used and LFO with small amplitude. Since I felt the sound a ittle bit dry, in order to fill with more colour, I used a ping-pong Delay on the middle frequencies with high feedback. Then I realised I would use on other channels too, so I used as a Send/Return effect instead of Insert. I used automation in order to decrease the realese time which was effected by the high feedback. 
 
 ![image](https://user-images.githubusercontent.com/43001496/147132315-54b4d1b8-2f5a-499b-99c1-ad366d4cfe45.png)
 ![image](https://user-images.githubusercontent.com/43001496/147132328-fe07a8be-b638-426a-85f8-906c52d9be8f.png)
 
-> I set notes by use of controller then I chose quantitized option besides some manually edited notes. I also played here with velocity values.
+I set notes by use of controller then I chose quantitized option besides some manually edited notes. I also played here with velocity values.
 
-> At this point I was sutisfied wiht this sound, as the higher frequencies of this sound reminded me the voices of the Heptapods from the Arrival named movie, which movie's mood is not so far from my vision defined in the inspiration part. For the reason that I used this sound heavily.
+At this point I was sutisfied wiht this sound, as the higher frequencies of this sound reminded me the voices of the Heptapods from the Arrival named movie, which movie's mood is not so far from my vision defined in the inspiration part. For the reason that I used this sound heavily.
 
 
 ##### b, CHORD
@@ -87,11 +87,11 @@ Firstly I started with the KERNEL - SICK sound which I tried to make as mystic a
 
 ![image](https://user-images.githubusercontent.com/43001496/147132341-983fce76-6b09-4815-95ee-dbb7feba2a53.png)
 
-> The new sound got to be more stronger with this so I used as the lead. I used Auto Filter LFO and automated it's amplitude for movements. I recorded this automation. I only used a logic to decrease the value when HIHAT appears for get back to the base CHORD sounds.
+The new sound got to be more stronger with this so I used as the lead. I used Auto Filter LFO and automated it's amplitude for movements. I recorded this automation. I only used a logic to decrease the value when HIHAT appears for get back to the base CHORD sounds.
 
 ![image](https://user-images.githubusercontent.com/43001496/147132350-38574fea-e5ee-4826-bac4-7782b3861377.png)
 
-> Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
+Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
 
 ![image](https://user-images.githubusercontent.com/43001496/147132395-2ad11fa4-09de-44ed-9872-57aef342f096.png)
 
