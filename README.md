@@ -12,7 +12,7 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 
 ---------------
 ```
-github: @luca_nag
-twitter: @luca_nagy
-instagram: @pushebp
+github: lucanag
+twitter: luca_nagy_
+instagram: pushebp
 ```
