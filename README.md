@@ -2,22 +2,24 @@
 
 This is a walkthrough on some of my Ableton learning process/homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com).
 
-# Sound Synthesis Exam
+# Sound Synthesis
 
 ## Requirements
-1.  A project without using any sampler (Sampler, Simpler, Impulse, Drum Rack, etc.)
-2.  Using real time, non-realtime input
-3.  Using edited note, velocity
-4.  Using MIDI controller
-5.  Recorded, edited automation
-6.  2 built - in software syntetiser
-7.  2 insert effect
-8.  2 send effect
-9.  At least 700 word analysis
-10. Presentation
+1.  An Ableton project 
+      1.  without using any sampler (Sampler, Simpler, Impulse, Drum Rack, etc.)
+      2.  Using real time, non-realtime input
+      3.  Using edited note, velocity
+      4.  Using MIDI controller
+      5.  Recorded, edited automation
+      6.  2 built - in software syntetiser
+      7.  2 insert effect
+      8.  2 send effect
+2.  At least 700 word analysis
+3. Presentation
+4. WAV file (20 sec)
 
 ## Synthesis Exam Work, Analysis - rule 30
-
+*You can read it in Hungarian [here](https://github.com/lucanag/music/blob/main/rule30.pdf)*
 ### Inspiration
 
 > I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiousity regarding the future affected by our current knowledge in scienses. Stephen Wolfram, A New Kind of Science named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same time with dark tone, atmospheric sounds which are not experienced in our natural direct environment. I followed this concept when I syntentiyed 4 sounds, based on its style I would say dub-techno especially that I was inpired by Heavenchord - in structure  and secquence.
@@ -37,7 +39,7 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 > Then I continued with the DRUMS synthesis where I used additive sznthesis or used only one oscillator with more audio effects.
 > Then I still felt some lack between the overall mood and the inspiration part, so I started experiencing with the ORNAMENT group where I synthesised a PAD with the help of Wavetable and used some HIGH STUFF with Analog.
 
-#### KERNEL
+#### 1, KERNEL
 
 (picture)
 
@@ -70,13 +72,33 @@ The new sound got to be more stronger with this so I used as the lead. I used Au
 
 (picture)
 
-You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
+Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
+
+#### 2. DRUMS
+
+##### a, KICK
+
+I wanted a sound fulfilled with harmonics so I again strted from a Sw3 wave with zero attack and sustain with a middle long release. 
+
+(pictuer)
+
+I played a lot with the Pitch evelope decay value which has key role in finding out the proper KICK which is not to strong to fit to my taste.
+
+(picture)
+
+Small resonance 
+
+##### b, BASS
 
 
 
 
+##### c, HIHAT
 
-## Sampling  Exam
+
+#### 3. ORNAMENTS
+
+## Sampling 
 
 
 
