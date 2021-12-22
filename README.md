@@ -161,33 +161,3 @@ The aim was to fulfill the boring parts with some higher frequencies. I used Ana
 I set the note to G3 to fit to the CHORD and SICK main frequencies. I tried to soften this sound with by increasing the filter and amplitude's envelope attack of the first oscillator to open the low pass filter gradually. Then to make more movements and make the overall impact more colourful I set the second oscillator 2 octave up. Echo and Decay was used with high feedvack. For movements I used LFO on the Auto Filter and Delay as a Send/Return effect.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133535-c6755988-0013-4dbe-819e-c0709fc189ac.png" width="500" />
-
-Self assessment
-
-## Sampling 
-
-You can use the [editor on GitHub](https://github.com/lucanag/lucanag.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
- 
- <embed src="https://viewscreen.githubusercontent.com/view/pdf?color_mode=auto&commit=3ee8cb695a6e70512148da83451a1ce8d02c7cb6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c7563616e61672f6d757369632f336565386362363935613665373035313231343864613833343531613163653864303263376362362f72756c6533302e706466&logged_in=true&nwo=lucanag%2Fmusic&path=rule30.pdf&platform=mac&repository_id=423020520&repository_type=Repository&version=14#64cf0168-9e93-4755-a1a1-62b6a2fce21d" width="500" height="375" 
- type="application/pdf">
- 
- 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucanag/lucanag.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
