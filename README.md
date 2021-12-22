@@ -1,6 +1,6 @@
 # Sound Synthesis and Sampling
 
-> This is a walkthrough on some of my Ableton learning process and homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com). The course I take is in Hungarian but English language courses are also available [here](https://www.improschool.com/all)
+> I will walk you through on some of my Ableton learning process and homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com). The course I take is in Hungarian but English language courses are also available [here](https://www.improschool.com/all).
 
 # Sound Synthesis
 
