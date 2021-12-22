@@ -1,10 +1,11 @@
 # Sound Synthesis and Sampling
 
-This is a walkthrough on some of my Ableton learning process/homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com).
+> This is a walkthrough on some of my Ableton learning process/homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com).
 
 # Sound Synthesis
 
 ## Requirements
+```
 1.  An Ableton project 
       1.  without using any sampler (Sampler, Simpler, Impulse, Drum Rack, etc.)
       2.  Using real time, non-realtime input
@@ -17,6 +18,7 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 2.  At least 700 word analysis
 3. Presentation
 4. WAV file (20 sec)
+```
 
 ## Synthesis Exam Work, Analysis - rule 30
 *You can read it in Hungarian [here](https://github.com/lucanag/music/blob/main/rule30.pdf)*
