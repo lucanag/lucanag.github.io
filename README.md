@@ -107,9 +107,11 @@
 (picture)
 (picture)
 
-On top of these I used Redux and Chorus for make it more dirty and metallic?. Then I realised the problem was with my note lenght, so I shorten them. In the ending part I didn't know on how to 
+> On top of these I used Redux and Chorus for make it more dirty and metallic?. Then I realised the problem was with my note lenght, so I shorten them. In the ending part I didn't know on how to finish it softly so I just started decreasing the number of notes and using more automation on Redux dry/wet and Echo. 
 
 #### 3. ORNAMENTS
+
+> Since after the KERNEL and DRUMS 
 
 ## Sampling 
 
