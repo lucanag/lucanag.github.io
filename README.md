@@ -50,7 +50,7 @@ Then I continued with the DRUMS synthesis where I used additive sznthesis or use
 
 <img src="https://user-images.githubusercontent.com/43001496/147131866-1ab3d37a-4129-40d4-80a1-c80eac216eba.png" width="300" /> 
 
-> Then I still felt some lack between the overall mood and the inspiration part, so I started experiencing with the ORNAMENT group where I synthesised a PAD with the help of Wavetable and used some HIGH STUFF with Analog.
+Then I still felt some lack between the overall mood and the inspiration part, so I started experiencing with the ORNAMENT group where I synthesised a PAD with the help of Wavetable and used some HIGH STUFF with Analog.
 
 #### 1, KERNEL
 
@@ -78,7 +78,7 @@ At this point I was sutisfied wiht this sound, as the higher frequencies of this
 
 ##### b, CHORD
 
-> Since I wanted a much strong, but inherited from the previous sounds for fit in the mood, I just copied the Chord and Operator from SICK and only modified the decay of filter envelope to increase it for fulfill with harmonics.
+Since I wanted a much strong, but inherited from the previous sounds for fit in the mood, I just copied the Chord and Operator from SICK and only modified the decay of filter envelope to increase it for fulfill with harmonics.
 
 <img src="https://user-images.githubusercontent.com/43001496/147132341-983fce76-6b09-4815-95ee-dbb7feba2a53.png" width="500" />
 
@@ -90,7 +90,7 @@ Similarly to the SICK I used Reverb and Delay, but with highlighting higher freq
 
 <img src="https://user-images.githubusercontent.com/43001496/147132395-2ad11fa4-09de-44ed-9872-57aef342f096.png" width="500" />
 
-> Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
+Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
 
 #### 2. DRUMS
 
@@ -98,7 +98,7 @@ Similarly to the SICK I used Reverb and Delay, but with highlighting higher freq
 
 ##### a, KICK
 
-> I wanted a sound fulfilled with harmonics so I again strted from a Sw3 wave with zero attack and sustain with a middle long release. 
+I wanted a sound fulfilled with harmonics so I again strted from a Sw3 wave with zero attack and sustain with a middle long release. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147133298-e490334d-085d-409b-aebc-282ceb9899f6.png" width="500" />
 
