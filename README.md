@@ -2,15 +2,6 @@
 
 This is a walkthrough on some of my Ableton learning process/homeworks which I have been experienced during taking a course at [Impro School](https://www.improschool.com).
 
-
-<embed src="https://portal.nebih.gov.hu/documents/10182/1055767/kutyatartasi_kezikonyv_2018_2kiad_ON.pdf/6139612a-1f45-305d-93f5-9e103cc3a970" width="500" height="375" 
- type="application/pdf">
- 
- 
- <embed src="https://viewscreen.githubusercontent.com/view/pdf?color_mode=auto&commit=3ee8cb695a6e70512148da83451a1ce8d02c7cb6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c7563616e61672f6d757369632f336565386362363935613665373035313231343864613833343531613163653864303263376362362f72756c6533302e706466&logged_in=true&nwo=lucanag%2Fmusic&path=rule30.pdf&platform=mac&repository_id=423020520&repository_type=Repository&version=14#64cf0168-9e93-4755-a1a1-62b6a2fce21d" width="500" height="375" 
- type="application/pdf">
-
-
 # Sound Synthesis Exam
 
 ## Requirements:
@@ -28,8 +19,8 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 ## Synthesis Exam Work, Analysis - rule30 (Luca Nagy)
 
 ### Inspiration
-s
-I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiosity regarding the future affected by the current knowledge in scienses. Stephen Wolfram, A New Kind of Science named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same time with dark tone, atmospheric sounds which are not experienced in our natural direct environment. I followed this concept when I syntentiyed 4 sound
+
+I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiousity regarding the future affected by our current knowledge in scienses. Stephen Wolfram, A New Kind of Science named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same time with dark tone, atmospheric sounds which are not experienced in our natural direct environment. I followed this concept when I syntentiyed 4 sounds, based on its style I would say dub-techno especially that I was inpired by Heavenchord - in structure  and secquen. 
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
 
 
@@ -45,6 +36,13 @@ You can use the [editor on GitHub](https://github.com/lucanag/lucanag.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<embed src="https://portal.nebih.gov.hu/documents/10182/1055767/kutyatartasi_kezikonyv_2018_2kiad_ON.pdf/6139612a-1f45-305d-93f5-9e103cc3a970" width="500" height="375" 
+ type="application/pdf">
+ 
+ 
+ <embed src="https://viewscreen.githubusercontent.com/view/pdf?color_mode=auto&commit=3ee8cb695a6e70512148da83451a1ce8d02c7cb6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c7563616e61672f6d757369632f336565386362363935613665373035313231343864613833343531613163653864303263376362362f72756c6533302e706466&logged_in=true&nwo=lucanag%2Fmusic&path=rule30.pdf&platform=mac&repository_id=423020520&repository_type=Repository&version=14#64cf0168-9e93-4755-a1a1-62b6a2fce21d" width="500" height="375" 
+ type="application/pdf">
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
