@@ -86,14 +86,24 @@ I played a lot with the Pitch evelope decay value which has key role in finding 
 
 (picture)
 
-Small resonance 
+I used a Low pass filter with small  resonance with zero attack and fast closing.
+
+(picture)
+
+By playing the drive parameter of the Saturator i made the sound more determined, then made the high frequencies more soft with an EQ Eight. In order to open the KICK gradually during the lead (CHORD), I automated the low pass filter on the Operator. 
 
 ##### b, BASS
 
+I used fixed 52 Hz and sinus wave, as I wanted a more soft element than the KICK. Due to it I was more cautious with the Pich envelope as well as the low pass filter cut point (??). Drum Bass drive was used for increasing the leftover frequencies.
 
-
+(picture)
 
 ##### c, HIHAT
+
+I spend a lot time with the HIHAT as first I check a [tutorial](link yt) where they only used a white noise with the built-in Operator. This was not so interesting as the metal elements were missing from it, so I used a custom wave fromate with additive ssynthesis whit small and middle amplitue harmonics. I cut the low frequencies but it was still not the best, so I realised that increasing the resonance is a good solution.
+
+(picture)
+(picture)
 
 
 #### 3. ORNAMENTS
