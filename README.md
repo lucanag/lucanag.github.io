@@ -24,6 +24,9 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 
 > *"It always bothers me that according to the laws as we understand them today, it takes a computing machine an infinite number of logical operations to figure out what goes on in no matter how tiny a region of space, and no matter how tiny a region of time. How can all that be going on in that tiny space? Why should it take an infinite amount of logic to figure out what one tiny piece of space/time is going to do? So I have often made the hypothesis ultimately physics will not require a mathematical statement, that in the end the machinery will be revealed and the laws will turn out to be simple, like the chequer board with all its apparent complexities. But this is just speculation." (The Character of Physical Law - Ch. 2)*
 
+*- Richard Feynman*
+
+
 
 ### Implementation Process
 
@@ -38,7 +41,7 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 
 (picture)
 
-##### SICK
+##### a, SICK
 
 > Since I wanted a more abstract but not a soft and supressed sound, I used a SwD wave with the built-in Operator with long attack and release time and playing with the filter as a substractive synthesis. Since I don't have a solid musical background using Chord was a huge help asince a simple moll can be set easily only once and I can forget it in the followings when I set the notes.
 
@@ -54,10 +57,18 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 
 > I set notes by use of controller then I chose quantitized option besides some manually edited notes. I also played here with velocity values.
 
-> At this point I was sutisfied wiht thiss sound, as when I checked 
+> At this point I was sutisfied wiht this sound, as the higher frequencies of this sound reminded me the voices of the Heptapods from the Arrival named movie, which movie's mood is not so far from my vision defined in the inspiration part. For the reason that I used this sound heavily.
 
 
+##### b, CHORD
 
+Since I wanted a much strong, but inherited from the previous sounds for fit in the mood, I just copied the Chord and Operator from SICK and only modified the decay of filter envelope to increase it for fulfill with harmonics.
+
+(picture)
+
+The new sound got to be more stronger with this so I used as the lead. I used Auto Filter LFO and automated it's amplitude for movements. I recorded this automation. I only used a logic to decrease the value when HIHAT appears for get back to the base CHORD sounds.
+
+(picture)
 
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
 
@@ -74,10 +85,6 @@ You can use the [editor on GitHub](https://github.com/lucanag/lucanag.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-<embed src="https://portal.nebih.gov.hu/documents/10182/1055767/kutyatartasi_kezikonyv_2018_2kiad_ON.pdf/6139612a-1f45-305d-93f5-9e103cc3a970" width="500" height="375" 
- type="application/pdf">
- 
  
  <embed src="https://viewscreen.githubusercontent.com/view/pdf?color_mode=auto&commit=3ee8cb695a6e70512148da83451a1ce8d02c7cb6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c7563616e61672f6d757369632f336565386362363935613665373035313231343864613833343531613163653864303263376362362f72756c6533302e706466&logged_in=true&nwo=lucanag%2Fmusic&path=rule30.pdf&platform=mac&repository_id=423020520&repository_type=Repository&version=14#64cf0168-9e93-4755-a1a1-62b6a2fce21d" width="500" height="375" 
  type="application/pdf">
