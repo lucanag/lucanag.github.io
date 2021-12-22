@@ -28,11 +28,8 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 ## Synthesis Exam Work, Analysis - rule30 (Luca Nagy)
 
 ### Inspiration
-
-I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiosity regarding the future affected by the current knowledge in scienses. Stephen Wolfram, A New Kind of Science named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same t dark tone, atmospheric sounds which are not everydaz natural sounds in our direct environment.
-
-
-
+s
+I chose my inspiration source based on the topics which had the most influenced affects to my personality. These are the improvements in different sciences and my infinite curiosity regarding the future affected by the current knowledge in scienses. Stephen Wolfram, A New Kind of Science named book is which I recenty read and have been amazed ever since, especially the rule 30 named cellular automation model in it. ... The questions regarding future I encounter when I understand this model is which I wanted to use when I syntetised sounds to use a concept as  an abstract future picture on the improvements. This picture is not a relaxed idil picture, rather fulfilled with excitements, challenges, but in the same time with dark tone, atmospheric sounds which are not experienced in our natural direct environment. I followed this concept when I syntentiyed 4 sound
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
 
 
