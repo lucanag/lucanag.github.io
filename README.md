@@ -29,6 +29,10 @@ You can read it in Hungarian here
 </object>
 
 
+xfun::embed_file("https://github.com/lucanag/music/blob/main/rule30.pdf")
+
+
+
 
 
 
