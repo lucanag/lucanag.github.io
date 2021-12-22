@@ -3,7 +3,7 @@
 
 I will walk you through on some of my Ableton learning process and homeworks which I have been experienced during taking a Music Production course at [Impro School](https://www.improschool.com). 
 
-*NOTE: The course I take is in Hungarian but English language courses are also available [here](https://www.improschool.com/all).*
+*The course I take is in Hungarian but English language courses are also available [here](https://www.improschool.com/all).*
 
 # Sound Synthesis
 
@@ -35,8 +35,7 @@ I chose my inspiration source based on the topics which had the most influenced 
 
 [rule 30](https://en.wikipedia.org/wiki/Rule_30)
 
-> *"It always bothers me that according to the laws as we understand them today, it takes a computing machine an infinite number of logical operations to figure out what goes on in no matter how tiny a region of space, and no matter how tiny a region of time. How can all that be going on in that tiny space? Why should it take an infinite amount of logic to figure out what one tiny piece of space/time is going to do? So I have often made the hypothesis ultimately physics will not require a mathematical statement, that in the end the machinery will be revealed and the laws will turn out to be simple, like the chequer board with all its apparent complexities. But this is just speculation." (The Character of Physical Law - Ch. 2)*
-- Richard Feynman
+> *"It always bothers me that according to the laws as we understand them today, it takes a computing machine an infinite number of logical operations to figure out what goes on in no matter how tiny a region of space, and no matter how tiny a region of time. How can all that be going on in that tiny space? Why should it take an infinite amount of logic to figure out what one tiny piece of space/time is going to do? So I have often made the hypothesis ultimately physics will not require a mathematical statement, that in the end the machinery will be revealed and the laws will turn out to be simple, like the chequer board with all its apparent complexities. But this is just speculation." (The Character of Physical Law - Ch. 2) - Richard Feynman*
 
 
 
