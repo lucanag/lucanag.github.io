@@ -27,7 +27,9 @@ This is a walkthrough on some of my Ableton learning process/homeworks which I h
 
 ### Implementation Process
 
-> I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood with strong drums. 
+> I divided my sounds into 3 groups, such as KERNEL, DRUMS, and ORNAMENT. The KERNEL and ORNAMENT mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. 
+
+From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
 
 
 You can read it in [Hungarian here](https://github.com/lucanag/music/blob/main/rule30.pdf)
