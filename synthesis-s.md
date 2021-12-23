@@ -13,7 +13,7 @@
       8.  Using at least 2 Send/Return effect
 2. At least 700 word analysis
 3. Presentation
-4. WAV file (20 sec)
+4. WAV file (90 sec)
 ```
 
 ## Synthesis Analysis - rule 30
