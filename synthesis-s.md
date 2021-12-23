@@ -19,7 +19,7 @@
 ## Synthesis Analysis - rule 30
 *Luca Nagy*
 
-*You can read it in Hungarian [here](https://github.com/lucanag/music/blob/main/rule30.pdf).*
+*You can read it in Hungarian [here](https://github.com/lucanag/lucanag.github.io/blob/main/assets/src/rule30.pdf).*
 
 ### Inspiration
 
@@ -161,4 +161,8 @@ I set the note to G3 to fit to the **CHORD** and **SICK** main frequencies. I tr
 
 ## Presentation
 
+[key](https://github.com/lucanag/lucanag.github.io/blob/main/assets/src/rule30.key)
+
 ## Wav file
+
+[wav](https://github.com/lucanag/lucanag.github.io/blob/main/assets/src/rule30.wav)
