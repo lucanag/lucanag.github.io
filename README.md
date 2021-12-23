@@ -1,5 +1,4 @@
 # Music Production Course Exams / Notes
-*Luca Nagy*
 
 I will walk you through on some of my Ableton learning process and homeworks which I have been experienced during taking a Music Production course at [Impro School](https://www.improschool.com). 
 
@@ -8,6 +7,3 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 ## Topics
 - [Sound Synthesis](https://lucanag.github.io/synthesis-s)
 - [Sampling](https://lucanag.github.io/sampling-s/)
-
-
----------------
