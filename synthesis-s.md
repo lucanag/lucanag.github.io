@@ -32,7 +32,7 @@ I chose my inspiration source based on the topics which most impressed me and ha
 
 ### Implementation Process
 
-I divided my sounds into 3 groups, such as **KERNEL**, **DRUMS**, and **ORNAMENT**. The **KERNEL** and **ORNAMENT** mirrors my predefined concepts in Inspiration paragraph. Regarding the DRUMS I only tried to not modify the ambient, mystic mood by synentizing strong drums. From the 7 sounds I used 5 times Operator, once Analog and once Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
+I divided my sounds into 3 groups, such as **KERNEL**, **DRUMS**, and **ORNAMENT**. The **KERNEL** and **ORNAMENT** symbolize my predefined concepts in the Inspiration paragraph. Regarding the **DRUMS** I only focus to not alter a lot on the ambient, mysterious mood by synentizing very strong drums. I used 5 times Operator, once Analog and once a Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
 
 <img src="https://user-images.githubusercontent.com/43001496/147131851-562c7008-3d33-4678-9384-a32f63fe7c99.png" width="100" /> 
 
