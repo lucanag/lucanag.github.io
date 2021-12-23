@@ -6,4 +6,4 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 
 ## Topics
 - [Sound Synthesis](https://lucanag.github.io/synthesis-s)
-- [Sampling](https://lucanag.github.io/sampling-s/)
+- [Sampling](https://lucanag.github.io/sampling-s)
