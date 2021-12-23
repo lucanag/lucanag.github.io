@@ -2,16 +2,16 @@
 
 ## Tasks / Requirements
 ```
-1.  An Ableton project 
-      1.  without using any sampler (Sampler, Simpler, Impulse, Drum Rack, etc.)
+1.  An Ableton project
+      1.  Without using any sampler (Sampler, Simpler, Impulse, Drum Rack, etc.)
       2.  Using real time, non-realtime input
       3.  Using edited note, velocity
       4.  Using MIDI controller
-      5.  Recorded, edited automation
-      6.  2 built-in software synthetiser
-      7.  2 insert effect
-      8.  2 send/return effect
-2. 700 word analysis
+      5.  Using Recorded, edited automation
+      6.  Using at least 2 built-in software synthetiser
+      7.  Using at least 2 Insert effect
+      8.  Using at least 2 Send/Return effect
+2. At least 700 word analysis
 3. Presentation
 4. WAV file (20 sec)
 ```
