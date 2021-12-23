@@ -20,7 +20,7 @@
 
 *Luca Nagy*
 
-*You can read it in Hungarian [here]().*
+*You can read it in Hungarian [here](https://github.com/lucanag/lucanag.github.io/blob/main/assets/src/Nagy%20Luca%20Sampling%20V%C3%ADzi%C3%B3.pdf).*
 
 The story is a documentary movie which is played to the students on the Mars in the future on a history lesson. The story is about the **Mars before the colonization**.
 
