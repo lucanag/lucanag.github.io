@@ -32,17 +32,17 @@ I chose my inspiration source based on the topics which most impressed me and ha
 
 ### Implementation Process
 
-I divided my sounds into 3 groups, such as **KERNEL**, **DRUMS**, and **ORNAMENT**. The **KERNEL** and **ORNAMENT** symbolize my predefined concepts in the Inspiration paragraph. Regarding the **DRUMS** I only focus to not alter a lot on the ambient, mysterious mood by synentizing very strong drums. I used 5 times Operator, once Analog and once a Wavetable. I havenát used presamples, but reused some sounds which I syntetised in more channels with tiny differences. I used 2 times Send/Return Delay as I would have been using with the same parameters on top of those sounds.
+I divided my sounds into 3 groups, such as **KERNEL**, **DRUMS**, and **ORNAMENT**. The **KERNEL** and **ORNAMENT** symbolize my predefined concepts in the Inspiration paragraph. Regarding the **DRUMS** I only focus to not alter a lot on the ambient, mysterious mood by synentizing very strong drums. I used 5 times Operator, once Analog and once a Wavetable. I haven't used presamples, but reused some sounds which I syntetized and used on more channels but with tiny modifications. I used 2 times Send/Return Delay as the same parameter set was fit to two sounds.
 
 <img src="https://user-images.githubusercontent.com/43001496/147131851-562c7008-3d33-4678-9384-a32f63fe7c99.png" width="100" /> 
 
-Firstly I started with the KERNEL - SICK sound which I tried to make as mystic as I can. Due to this I thought a substractive syntesis will be the proper from a rich sound, then I would slightly modify the Decay of the filter envelope on the Operator to receive an additional more dominant sound. With this and small editation CHORD was burn during I tried NATIVE INSTRUMENTS KOMPLETE KONTROL M32 during. I tried to create similar melodies on the two channel.
+Firstly, I started with the **KERNEL - SICK** sound which I tried to make as mysterious as I can. Due to this I thought a substractive syntesis will be the proper from a rich sound wave, then I would slightly modify the Decay of the filter envelope on the Operator to receive an additional more dominant but still a good fit sound. With this and with small modification **CHORD** was born while I was playing with NATIVE INSTRUMENTS KOMPLETE KONTROL M32 to put the notes and create a melody. I focused to create similar melodies on the two channel.
 
-Then I continued with the DRUMS synthesis where I used additive sznthesis or used only one oscillator with more audio effects.
+Then, I continued with the **DRUMS** sounds synthezis where I used additive synthezis or I used only one oscillator with more audio effects.
 
 <img src="https://user-images.githubusercontent.com/43001496/147131866-1ab3d37a-4129-40d4-80a1-c80eac216eba.png" width="300" /> 
 
-Then I still felt some lack between the overall mood and the inspiration part, so I started experiencing with the ORNAMENT group where I synthesised a PAD with the help of Wavetable and used some HIGH STUFF with Analog.
+Then I still felt some lack between the overall mood and the predefined concepts in the Inspiration part, so I started experimenting with the **ORNAMENT** group where I synthetised a **PAD** with the help of Wavetable and then put some high tones in **HIGH STUFF** channel by using Analog.
 
 --------
 
@@ -52,39 +52,37 @@ Then I still felt some lack between the overall mood and the inspiration part, s
 
 ##### a, SICK
 
-Since I wanted a more abstract but not a soft and supressed sound, I used a SwD wave with the built-in Operator with long attack and release time and playing with the filter as a substractive synthesis. Since I don't have a solid musical background using Chord was a huge help asince a simple moll can be set easily only once and I can forget it in the followings when I set the notes.
+Since I wanted a more abstract but not too soft and supressed sound, I used a sawtooth wave with the built-in Operator with long attack and release time and by playing with the filter as a substractive synthesis. Since I don't have a solid musical background using Chord was a huge help since a simple moll can be set easily only once and I can forget it in the followings when I play with the notes.
 
 <img src="https://user-images.githubusercontent.com/43001496/147132272-5be4c331-694a-49e1-97ed-0972bd563185.png" width="500" />
 
-I used low pass filter MS2 based on (link) and set the filter envelope to open and close fast with short decay. I wanted pitch sensitivity so I increased Freq Key.
+I used low pass filter MS2 based on a [writeup](https://performodule.com/2019/03/07/abletons-auto-filter-comparing-circuit-models/) and set the filter envelope to open and close fastly with short decay time. I wanted pitch sensitivity so I increased Freq<Key.
 
 <img src="https://user-images.githubusercontent.com/43001496/147132298-9d478ad6-e691-4857-8c0b-db6e86e49b9e.png" width="500" />
 
-During I played with a controller, I realised I need more high frequency, so I used a band pass filter on Auto Filter with small rezonanse. In order to make more exciting and make some movements I used and LFO with small amplitude. Since I felt the sound a ittle bit dry, in order to fill with more colour, I used a ping-pong Delay on the middle frequencies with high feedback. Then I realised I would use on other channels too, so I used as a Send/Return effect instead of Insert. I used automation in order to decrease the realese time which was effected by the high feedback. 
+During I played with a controller, I realised I need more high frequency, so I used a band pass filter on Auto Filter with small rezonanse set. In order to make more excitment and make some movements I used LFO as modulator with small amplitude. Since I felt the sound a little bit dry in order to fill it with more colour I used a ping-pong Delay on the middle frequencies with high feedback set. Then, I realised I would use on other channels too, so I used as a Send/Return effect instead of Insert. I used automation in order to decrease the realese time which was effected by the high feedback. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147132315-54b4d1b8-2f5a-499b-99c1-ad366d4cfe45.png" width="500" />
 
 <img src="https://user-images.githubusercontent.com/43001496/147132328-fe07a8be-b638-426a-85f8-906c52d9be8f.png" width="250" />
 
-I set notes by use of controller then I chose quantitized option besides some manually edited notes. I also played here with velocity values.
+I set notes by using then controller then I chose quantitized option besides some manually edited notes. I also played here with the velocity values.
 
-At this point I was sutisfied wiht this sound, as the higher frequencies of this sound reminded me the voices of the Heptapods from the Arrival named movie, which movie's mood is not so far from my vision defined in the inspiration part. For the reason that I used this sound heavily.
+At this point I was satisfied whit this sound, as the higher frequencies of this sound reminded me the voices of the Heptapods from the Arrival named movie, which movie's mood is not so far from my vision defined in the Inspiration part. For this reason I used this sound heavily.
 
 ##### b, CHORD
 
-Since I wanted a much strong, but inherited from the previous sounds for fit in the mood, I just copied the Chord and Operator from SICK and only modified the decay of filter envelope to increase it for fulfill with harmonics.
+Since I wanted a much powerful sound but still inherited from the previous sounds in order to match, I just copied the Chord and Operator from **SICK** and only modified the decay of filter envelope to increase it for fulfilling it with harmonics.
 
 <img src="https://user-images.githubusercontent.com/43001496/147132341-983fce76-6b09-4815-95ee-dbb7feba2a53.png" width="500" />
 
-The new sound got to be more stronger with this so I used as the lead. I used Auto Filter LFO and automated it's amplitude for movements. I recorded this automation. I only used a logic to decrease the value when HIHAT appears for get back to the base CHORD sounds.
+The new sound got to be much stronger with this so I used as the lead. I used Auto Filter LFO and automated it's amplitude for movements. I recorded this automation. The only logic I used is to decrease the value when **HIHAT** appears for getting back to the base **CHORD** sounds.
 
 <img src="https://user-images.githubusercontent.com/43001496/147132350-38574fea-e5ee-4826-bac4-7782b3861377.png" width="500" />
 
-Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
+Similarly to the **SICK**, I used Reverb and Delay, but by highlighting higher frequencies and using as an Insert effect.
 
 <img src="https://user-images.githubusercontent.com/43001496/147132395-2ad11fa4-09de-44ed-9872-57aef342f096.png" width="500" />
-
-Similarly to the SICK I used Reverb and Delay, but with highlighting higher freqyencies and using as Insert effect.
 
 --------
 
