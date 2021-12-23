@@ -53,7 +53,7 @@ I want both background and dance music in approximately equally, regarding the g
 
 *Luca Nagy*
 
-*You can read it in Hungarian [here]().*
+*You can read it in Hungarian [here](https://github.com/lucanag/lucanag.github.io/blob/main/assets/src/colonists.pdf).*
 
 ### Inspiration
 
@@ -190,9 +190,9 @@ At **enhance** part I worked also with a longer slice with Vocoder.
 
 <img src="https://user-images.githubusercontent.com/43001496/147247293-e45abcde-2460-48fd-918f-f627bb775386.png" width="500" />
 
-
 ## Presentation
+[pptx](https://github.com/lucanag/lucanag.github.io/blob/main/assets/src/colonists.pptx)
 
 ## WAV
-
+[wav](https://github.com/lucanag/lucanag.github.io/blob/main/assets/src/colonists.wav)
 
