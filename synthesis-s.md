@@ -19,7 +19,7 @@
 ## Synthesis Analysis - rule 30
 *Luca Nagy*
 
-*[You can read it in Hungarian [here](https://github.com/lucanag/music/blob/main/rule30.pdf).]*
+*You can read it in Hungarian [here](https://github.com/lucanag/music/blob/main/rule30.pdf).*
 
 ### Inspiration
 
