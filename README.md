@@ -11,8 +11,3 @@ I will walk you through on some of my Ableton learning process and homeworks whi
 
 
 ---------------
-```
-github: lucanag
-twitter: luca_nagy_
-instagram: pushebp
-```
