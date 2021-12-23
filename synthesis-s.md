@@ -92,35 +92,35 @@ Similarly to the **SICK**, I used Reverb and Delay, but by highlighting higher f
 
 ##### a, KICK
 
-I wanted a sound fulfilled with harmonics so I again strted from a Sw3 wave with zero attack and sustain with a middle long release. 
+I wanted a sound fulfilled with harmonics so again I decided to start from a Sw3 wave with zero attack and sustain and a medium long release. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147133298-e490334d-085d-409b-aebc-282ceb9899f6.png" width="500" />
 
-I played a lot with the Pitch evelope decay value which has key role in finding out the proper KICK which is not to strong to fit to my taste.
+I played a lot with the Pitch evelope decay value which seemed to play a key role in finding out the proper **KICK** which is not too strong and fit to my taste.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133320-c8794a48-7673-4536-956e-670790108436.png" width="500" />
 
-I used a Low pass filter with tiny resonance with zero attack and fast closing.
+I used a Low pass filter with tiny resonance, zero attack and fast closing.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133363-c42e5044-4106-41da-ac95-2dfcafb97f3c.png" width="500" />
 
-By playing the drive parameter of the Saturator i made the sound more determined, then made the high frequencies more soft with an EQ Eight. In order to open the KICK gradually during the lead (CHORD), I automated the low pass filter on the Operator. 
+By playing the drive parameter of the Saturator I made the sound more powerful, then made the high frequencies more soft with an EQ Eight. In order to open the **KICK** gradually during the lead (**CHORD**), I automated the low pass filter on the Operator. 
 
 ##### b, BASS
 
-I used fixed 52 Hz and sinus wave, as I wanted a more soft element than the KICK. Due to it I was more cautious with the Pich envelope as well as the low pass filter cut point (??). Drum Bass drive was used for increasing the leftover frequencies.
+I used fixed 52Hz and sine wave, as I wanted a more soft element than the **KICK**. For this reason I was more cautious with the Pich envelope as well as the low pass filter catoff frequency. Drum Bass drive value was used for increasing the leftover frequencies.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133387-102664b7-4ae1-4d4a-9b37-88f14c7df026.png" width="500" />
 
 ##### c, HIHAT
 
-I spend a lot time with the HIHAT as first I check a [tutorial](link yt) where they only used a white noise with the built-in Operator. This was not so interesting as the metal elements were missing from it, so I used a custom wave fromate with additive ssynthesis whit small and middle amplitue harmonics. I cut the low frequencies but it was still not the best, so I realised that increasing the resonance is a good solution.
+I spend a lot time with the **HIHAT** as first I check a [tutorial](https://www.youtube.com/watch?v=5um1yCAcBtI) where they only used a white noise with the built-in Operator. This was not so interesting as the metal elements were missing from it, so I used a custom wave format with additive synthezis whit low and middle amplitude harmonics. I cut the low frequencies but it was still not the best, so I realised that increasing the resonance is a good solution for get a proper hihat.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133399-f10ecfa4-d19a-45e6-b280-c2c003679d80.png" width="500" />
 
 <img src="https://user-images.githubusercontent.com/43001496/147133404-9e16e1f7-ce95-4a98-a504-31ef21363f59.png" width="500" />
 
-On top of these I used Redux and Chorus for make it more dirty and metallic?. Then I realised the problem was with my note lenght, so I shorten them. In the ending part I didn't know on how to finish it softly so I just started decreasing the number of notes and using more automation on Redux dry/wet and Echo. 
+On top of these, I used Redux and Chorus for make it more dirty and metallic. Then I realised the problem was with my note lenght, so I shorten them. In the ending part I didn't know on how to finish it so I just started decreasing the number of notes, using more automation on Redux dry/wet and Echo. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147133423-2ac4e285-0a43-4952-996c-ad0ec73a10e1.png" width="500" />
 
@@ -130,17 +130,17 @@ On top of these I used Redux and Chorus for make it more dirty and metallic?. Th
 
 #### 3. ORNAMENTS
 
-The picture regarding the style and mood was clarified after the KERNEL and DRUMS implementation, I wanted a pad noise which has more dark tone with some noises in the ending part. In the same time I felt week in high frequencies so my aim in this part was also synthetising some ornament high noises. 
+The picture regarding the genre and mood was clear after the **KERNEL** and **DRUMS** implementation, so I wanted a pad noise which has more dark tone with some noises in the ending part. In the same time I felt my sounds week in high frequencies so my aim in this part was also synthetising some ornament of high noises. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147133448-802e8fb2-4929-4ef9-af79-55f295086594.png" width="500" />
 
 ##### a, PAD
 
-The aim was here to synthetise a background sound which is little bit worrysome affect has. I used a Wavetable Pink Noise with 26Hz Square wave LFO. I wanted only the release part of it so I set high release of the amplude envelope then used Saturator and Echo with high feedback on high frequences.
+The aim was here to synthetize a background sound which has a little bit worrysome impact to the whole sounds. I used a Wavetable Pink Noise with 26Hz square wave LFO. I wanted only the release part of it so I set high release of the amplitude envelope then used Saturator and Echo with high feedback on the high frequences.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133458-efbb58bd-5a9d-477f-9807-871c15a9b78c.png" width="500" />
 
-In order to soothe the impact of this sound, I increased the envelope's attack and simply cut the track volumes on the note on part (I knew this is not the most elegant solution but it worked). Then I usedd Auto Filer on the high frequencies to cut them. Even it was only a pad noise I wanted to make it more colourful so I used LFO as a modulator on the Auto Filter. I realised that the Echo's Noise generator is also fit to this sound, so I set some automation to it. 
+In order to soothe the impact of this sound, I increased the envelope's attack and simply cut the track volumes on the note-on parts. Then I used Auto Filer on the high frequencies to cut them off. Even it was only a pad noise I wanted to make it more colourful so I used LFO as a modulator on the Auto Filter. I realised that the Echo's Noise generator is also fit to this sound, so I set some automation to it. 
 
 <img src="https://user-images.githubusercontent.com/43001496/147133489-de9a2381-1973-4543-a773-358116538fa0.png" width="250" />
 
@@ -153,7 +153,7 @@ The aim was to fulfill the boring parts with some higher frequencies. I used Ana
 
 <img src="https://user-images.githubusercontent.com/43001496/147133517-e5f7e73c-516d-4cb4-bee2-943c521e7315.png" width="500" />
 
-I set the note to G3 to fit to the CHORD and SICK main frequencies. I tried to soften this sound with by increasing the filter and amplitude's envelope attack of the first oscillator to open the low pass filter gradually. Then to make more movements and make the overall impact more colourful I set the second oscillator 2 octave up. Echo and Decay was used with high feedvack. For movements I used LFO on the Auto Filter and Delay as a Send/Return effect.
+I set the note to G3 to fit to the **CHORD** and **SICK** main frequencies. I tried to soften this sound by increasing the filter and amplitude's envelope attack of the first oscillator to open the low pass filter gradually. Then to make more movements and make the overall impact more colourful I set the second oscillator up to 2 octave. Echo and Decay was used with high feedback. For movements I used LFO on the Auto Filter and Delay as a Send/Return effect.
 
 <img src="https://user-images.githubusercontent.com/43001496/147133535-c6755988-0013-4dbe-819e-c0709fc189ac.png" width="500" />
 
