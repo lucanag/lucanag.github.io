@@ -30,6 +30,7 @@ The story is a documentary movie which is showed to the students on the Mars in 
 
 3. The last part of the movie come back to the drear uncolonized picture on tha Mars which it was in 2021. Samingly as all the good documentaries about a Planet ends, the end part shows the surface of the Mars as moving away forrward to the huge infinite space. 
 
+
 ---------
 
 I will use the audio files [uploaded](https://mars.nasa.gov/mars2020/multimedia/audio/) by “Perseverance” named Mars rover of NASA which is designed for exploring the Mars and was landed at 18 February 2021.
@@ -60,11 +61,13 @@ I want a background and dance music in proportion of half-half, regarding the ge
 The main requirements of this exam which inspired me mostly as that we need to record or use any existing audio file and work only with that. As I am interested in the changes of sound properties in different consistence or atmoshpheres I wanted to record sounds in a totally different consistence or atmosphere first, such as under water on in different gas. Then I started research on what other Planet has any atmoshphere which can drive sounds and found that Mars has some kind of which is actually recorded by NASA. [maybe more about the radiowaves]
 Due to this my vision was connected to it, which is a documentary about the Mars before the colonization.
 
+![image](https://user-images.githubusercontent.com/43001496/147245768-2eacf86b-a9ad-4420-b4df-14f15279c780.png)
+
 ### Implementation Process
 
 I divided my sounds into 3 different groups, such as **CLIMATE**, **DRUMS** and **ADVENTURE**. In the part of **CLIMATE** I tried to give back the dusty, drear surface and climatic conditions of  Mars, while the exploration and discovery challenges in the **ADVENTURE**, while in the **DRUMS** I just focused to give back the elements of the predefined music genre. There are many sound in **ADVENTURE** part which are more dark but remind us some movements and excitements which was predefined. I also tried here to create some musical note not only noises and to create some pattern in the melody.
 
-(picture)
+![image](https://user-images.githubusercontent.com/43001496/147245829-9a97c2b3-c6aa-4b22-ab39-57111f2dcae5.png)
 
 Since I liked the original records in raw form  already, I wanted to stay them almost in raw form too for giving back as much as I can the original mood of the records.
 
