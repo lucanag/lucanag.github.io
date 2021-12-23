@@ -172,7 +172,7 @@ This part has the most different sound which I chose by leaving Simpler to ct sl
 
 I used here NATIVE INSTRUMENTS KOMPLETE KONTROL M32 controller for experimenting with the slices. I freezed this channel as it contained the most sound and effects. I used 5 sounds, most of the cases used LFO and Echo, some cases Vocoder and Reverb.
 
-<img src="https://user-images.githubusercontent.com/43001496/147247231-f3b4a2b3-612d-4459-9df9-b77572f44a9b.png" width="200" />
+<img src="https://user-images.githubusercontent.com/43001496/147247231-f3b4a2b3-612d-4459-9df9-b77572f44a9b.png" width="100" />
 
 The **solution** sound is the only one where I tried to find a sinus wave and used in sustain loop mode to try to create a musical note. I used here Sampler, Pitch and Chord.
 
