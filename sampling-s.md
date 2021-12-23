@@ -82,7 +82,8 @@ Since I liked the original records in raw form  already, I wanted to stay them a
 I used the first audio record from the Mars 
 
 [First Audio Recording of Sounds on Mars](https://mars.nasa.gov/resources/25713)
-
+ 
+ 
 This is the only record which I only edited a bit and left there in it's full length in order to keep the original mood of the record as a background noise. At some silent places I cut out and copied another part for being more consistent. Some of these places I used mirroring to drag the next section at null point. As the amplitude was vary I consolidated at some places and increased or decreased the amplitude and increased the Clip View gain value.
 
 (picture)
