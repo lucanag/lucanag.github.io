@@ -75,7 +75,7 @@ Since I liked the original records in raw form  already, I wanted to stay them a
 
 #### 1. CLIMATE
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147246106-65eb02dc-cebf-4f38-bc70-6c9d48590ec9.png" width="500" />
 
 
 ##### a, WIND
@@ -87,7 +87,7 @@ I used the first audio record from the Mars
  
 This is the only record which I only edited a bit and left there in it's full length in order to keep the original mood of the record as a background noise. At some silent places I cut out and copied another part for being more consistent. Some of these places I used mirroring to drag the next section at null point. As the amplitude was vary I consolidated at some places and increased or decreased the amplitude and increased the Clip View gain value.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147246156-45ad8419-a7b8-435e-9198-93296da7afa7.png" width="500" />
 
 
 ##### b, ATMOSPHERE
