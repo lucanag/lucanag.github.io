@@ -3,7 +3,7 @@
 ## Tasks / Requirements
 ```
 1. An Ableton project by using
-    1. Using only existing audio file or record one
+    1. Only existing audio file or record one
     2. Sampler
     3. Simpler
     4. Warping (different algorithm)
@@ -132,10 +132,9 @@ I increaset the peak of the Pitch envelope, filtered the high frequencies and us
 
 The BASS is made from the KICK, I only changed the attack of the filter eenvelope and increased the released time of the amplitude envelope. I highlighted different frequencies and cut out the 50-60 Hz part. I used Drum Buss here to have stronger effect.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247054-4ddd2e8d-864c-4b02-a09f-c7b7f804e6e6.png" width="500" />
 
-(picture)
-
+<img src="https://user-images.githubusercontent.com/43001496/147247064-35e66f37-c775-47ba-9e9d-58f7ab4f25b5.png" width="500" />
 
 ##### c. SNARE
 
@@ -145,12 +144,11 @@ When I checked the records on the static laser shot of the Mars rover I thought 
 
 I warped it in Beats mode and pulled each 8th transient to grids. Then I realised the amplitude value is not higher in every 8th beat, so I just selected a biggere slice and duplicated for having at least some pattern and be a little bit more static. 
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247115-6ecb6003-2c48-44b3-bff6-e5042712aa40.png" width="500" />
 
 In order to fit to the genre I selected in the vision I used band pass auto filter and played with Drum Bass and Reverb. I used Echo for slightly driving the sound into another music structure section, such as at break.
 
-(picture)
-
+<img src="https://user-images.githubusercontent.com/43001496/147247143-d17fe30f-0ff9-44b3-a244-7cadc615e29b.png" width="500" />
 
 ##### d. HIHAT
 
@@ -160,11 +158,13 @@ I used the laser shot records, but this time I left Ableton to create slicis bas
 
 I used Pitch tool for increasing the pitch and applied Saturator. For driving into another music part I used Echo and Delay.
 
+<img src="https://user-images.githubusercontent.com/43001496/147247183-075b232a-7cc1-4861-8135-884a1ad1d957.png" width="500" />
+
 --------------
 
 #### 3. ADVENTURE
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247202-95385ed7-7def-42eb-9c9b-1846b9017523.png" width="500" />
 
 This part has the most different sound which I chose by leaving Simpler to ct slices based on transients again. But here I used another record which was more vary in frequencies.
 
@@ -172,29 +172,27 @@ This part has the most different sound which I chose by leaving Simpler to ct sl
 
 I used here NATIVE INSTRUMENTS KOMPLETE KONTROL M32 controller for experimenting with the slices. I freezed this channel as it contained the most sound and effects. I used 5 sounds, most of the cases used LFO and Echo, some cases Vocoder and Reverb.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247231-f3b4a2b3-612d-4459-9df9-b77572f44a9b.png" width="200" />
 
 The **solution** sound is the only one where I tried to find a sinus wave and used in sustain loop mode to try to create a musical note. I used here Sampler, Pitch and Chord.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247248-ce288415-84b3-4412-b4f3-7a9fc81c1e97.png" width="500" />
 
 The **storm** sound symbolise a climate, I used Sampler to cut the wave in the following way.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247258-7a1acb40-116a-4c85-a18c-5c0ce8c58ba6.png" width="500" />
 
 At **strange** sound I cut a slice in the following way.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247267-d9825992-2d0a-4cf4-bd4f-de25a202476b.png" width="500" />
 
 At **question** sound I left a huge slice and used Vocoder.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247276-e37b8b64-f0b2-4c96-afb6-f1dd4506e28f.png" width="500" />
 
 At **enhance** part I worked also with a longer slice with Vocoder.
 
-(picture)
-
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147247293-e45abcde-2460-48fd-918f-f627bb775386.png" width="500" />
 
 
 ## Presentation
