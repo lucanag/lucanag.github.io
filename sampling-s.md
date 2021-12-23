@@ -1,5 +1,3 @@
-[back](./)
-
 # Sampling
 
 ## Tasks / Requirements
