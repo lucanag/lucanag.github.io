@@ -1,4 +1,4 @@
-# Music Production Exam Works / Notes
+# Music Production Course Exams / Notes
 *Luca Nagy*
 
 I will walk you through on some of my Ableton learning process and homeworks which I have been experienced during taking a Music Production course at [Impro School](https://www.improschool.com). 
