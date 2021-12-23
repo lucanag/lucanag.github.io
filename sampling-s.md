@@ -98,23 +98,21 @@ I wanted to symbolize the climate conditions here from another record uploaded b
 
 I used two slices from this record. One to a background noise symbolising the basic element of the atmosphere (**carbon**) and a higher frequency metallic noise appearing at some points only (**metal**).
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147246393-519af2da-4d52-4220-8e4c-27fbeb76a65e.png" width="200" />
 
 I used Sampler at the **carbon** part in sustain loop mode in order to get a long released background sound. In order to use the note on part too and not only the release part, I increased the Pitch envelope's Peak for get little bit different sound. I cut off the high frequencies and used Vocoder and Echo with small LFO and high stereo effects.
 
-(pictures)
+<img src="https://user-images.githubusercontent.com/43001496/147246437-4df500ed-372b-404a-a36a-bbef0dc6c8e0.png" width="500" />
 
 I used one shot ode with a Simpler at the **metal** sound with a small resonance set band pass filter, small LFO to have some movements. I used Vocodera and Echo here too.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147246619-14598382-a4a4-4b42-8141-eb5efb39bb86.png" width="500" />
 
 --------
 
-
 #### 2. DRUMS
 
-(picture)
-
+<img src="https://user-images.githubusercontent.com/43001496/147246653-895d4d54-763c-44ea-b20e-5581a62b6a38.png" width="500" />
 
 ##### a. KICK
 
@@ -124,11 +122,11 @@ I tried to find a sinus wave from the records using in a Sampler to cut at null 
 
 I increaset the peak of the Pitch envelope, filtered the high frequencies and used a Shaper. I highlighteed the low frequencies with Saturator and EQ Eight.
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147246695-8d274bf4-065d-4d75-ae74-0eb3a93a4ec3.png" width="500" />
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147246701-7315c040-baf3-468c-99cf-a9416d0df2b9.png" width="500" />
 
-(picture)
+<img src="https://user-images.githubusercontent.com/43001496/147246710-2083d608-b823-45b2-868a-20753b647d77.png" width="500" />
 
 ##### b. BASS
 
